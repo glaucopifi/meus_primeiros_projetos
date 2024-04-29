@@ -7,5 +7,6 @@ Criado no VSCODE simulando o ambiente Jupyter
 
  - Faturamento de vendas de uma vendinha
  - loja classe faturamento para testar o método classes
+ - Criação de um QRCODE para perfil do Linkedin
 
 
